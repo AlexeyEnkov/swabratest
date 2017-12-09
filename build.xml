@@ -1,6 +1,6 @@
 <project name="swabratest">
     <target name="generateProps">
         <echo file="res/genprops/g.properties" message="g=gg"/>
-        <echo file="res/genprops/b.properties" message="b2=bb"/>
+        <echo file="res/aprops/b.properties" message="b2=bb"/>
     </target>
 </project>
